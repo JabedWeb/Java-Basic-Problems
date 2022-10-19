@@ -11,7 +11,7 @@ import java.util.Scanner;
  *
  * @author cse
  */
-public class Color {
+public class color {
 
           public static void main(String[] args) {
               
