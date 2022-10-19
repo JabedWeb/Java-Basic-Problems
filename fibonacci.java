@@ -11,7 +11,7 @@ import java.util.Scanner;
  *
  * @author cse
  */
-public class Fibonacchi {
+public class fibonacci {
 
    
     public static void main(String[] args) {
